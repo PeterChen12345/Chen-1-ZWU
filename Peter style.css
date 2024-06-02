@@ -169,8 +169,8 @@
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  left: calc(50% - 827px);
-  top: 69px;
+  left: calc(50% - 815px);
+  top: 89px;
   backdrop-filter: blur(30px);
 }
 .frame-6 {
@@ -228,7 +228,7 @@
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
 }
-.more {
+.final-project {
   color: #ffffff;
   text-align: left;
   font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
